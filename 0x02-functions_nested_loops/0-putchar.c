@@ -1,6 +1,6 @@
 #include <stdlib.h>
 
-#iclude <stdio.h>
+#include <stdio.h>
 
 
 
@@ -11,7 +11,7 @@ main()
 {
 
 		
-	printf("%i", "_putchar\n");
+	printf( "_putchar\n");
 	return 0;
 
 }
